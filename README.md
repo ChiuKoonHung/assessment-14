@@ -6,7 +6,7 @@ The objective of this assessment aims to complement the practical exercises you 
 
 ### Question 1
 
-Why do we have to prefix function with `this.` (Example: `this.functionName()`) within a class component when we reference a function from another function?
+Why do we have to prefix function with `this.` (Example: `this.functionName`) within a class component when we reference a function from another function?
 
 ```
 // Your answer here
