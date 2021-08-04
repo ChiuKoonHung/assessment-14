@@ -28,7 +28,7 @@ Qn 2.2 - Why do you have to write `this.functionA = this.functionA.bind(this);` 
 
 ### Question 3
 
-In HTML, we write an inline style with `<div style="background-color:red">` while in React, we write it as `<div style={{backgroundColor:'red'}}>`. Give an explanation in your own words on the differences.
+In HTML, we write an inline style with `<div style="background-color:red">` while in React, we write it as `<div style={{backgroundColor:'red'}}>`. Give an explanation on the differences in your own words.
 
 ```
 // Your answer here
